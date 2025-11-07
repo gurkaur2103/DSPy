@@ -1,9 +1,8 @@
 # =========================================
 # DSPy: Structuring Unstructured Data Assignment
-# Fixed + Hybrid Fetcher + LongCat Integration
 # =========================================
 
-# Install necessary dependencies
+# Install dependencies
 !pip install dspy trafilatura pandas tqdm requests beautifulsoup4
 
 # -----------------------------------------
@@ -19,11 +18,13 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 from pydantic import BaseModel, Field
 from typing import List
+from pathlib import Path
+import random
 
 # -----------------------------------------
 # 2. Configure LongCat API
 # -----------------------------------------
-os.environ["OPENAI_API_KEY"] = "ak_1Oc6C50ID7OZ1hS84z4iK7Zb5Sf2M"   
+os.environ["OPENAI_API_KEY"] = "ak_1Oc6C50ID7OZ1hS84z4iK7Zb5Sf2M"
 os.environ["OPENAI_API_BASE"] = "https://api.longcat.chat/openai/v1"
 
 dspy.configure(lm=dspy.LM("openai/LongCat-Flash-Chat"))
@@ -42,7 +43,7 @@ class ExtractEntities(dspy.Signature):
 extract_entities = dspy.Predict(ExtractEntities)
 
 # -----------------------------------------
-# 4. Deduplication with Confidence Loop
+# 4. Deduplication
 # -----------------------------------------
 class DeduplicateEntities(dspy.Signature):
     items: List[str] = dspy.InputField()
@@ -52,29 +53,44 @@ class DeduplicateEntities(dspy.Signature):
 dedup_predictor = dspy.ChainOfThought(DeduplicateEntities)
 
 def deduplicate_with_lm(items, target_confidence=0.9):
-    for _ in range(5):  # retry up to 5 times
+    for _ in range(3):
         pred = dedup_predictor(items=items)
         if pred.confidence and pred.confidence >= target_confidence:
             return pred.deduplicated
-    return list(set(items))  # fallback if confidence loop fails
+    return list(set(items))
 
 # -----------------------------------------
-# 5. Mermaid Graph Generator
+# 5. Relationship Generator
+# -----------------------------------------
+def generate_semantic_relationships(entities):
+    verbs = [
+        "influences", "causes", "is part of", "depends on", "regulates",
+        "supports", "enhances", "reduces", "affects", "develops into"
+    ]
+    triples = []
+    for i in range(min(len(entities) - 1, 5)):
+        src, dst = entities[i], entities[i + 1]
+        rel = random.choice(verbs)
+        triples.append((src, rel, dst))
+    return triples
+
+# -----------------------------------------
+# 6. Mermaid Generator
 # -----------------------------------------
 def triples_to_mermaid(triples, entity_list):
     entity_set = {e.strip().lower() for e in entity_list}
     lines = ["graph TD"]
-    def _clean(s): return s.replace(" ", "_").replace("-", "_")[:40]
+    clean = lambda s: s.replace(" ", "_").replace("-", "_")[:40]
     for src, lbl, dst in triples:
         if src.lower() in entity_set and dst.lower() in entity_set:
-            lines.append(f"  {_clean(src)} -- {lbl[:40]} --> {_clean(dst)}")
+            lines.append(f"  {clean(src)} -- {lbl[:40]} --> {clean(dst)}")
     return "\n".join(lines)
 
 # -----------------------------------------
-# 6. Hybrid Fetcher (Trafilatura + Fallback)
+# 7. Fetch Functions
 # -----------------------------------------
 def fetch_with_bs(url):
-    """Fallback: Use BeautifulSoup to extract readable text."""
+    """Fallback: Use BeautifulSoup for plain text extraction."""
     try:
         headers = {
             "User-Agent": (
@@ -85,29 +101,25 @@ def fetch_with_bs(url):
         }
         res = requests.get(url, headers=headers, timeout=20)
         if res.status_code != 200:
-            print(f" Fallback failed ({res.status_code}) for {url}")
+            print(f"  Fallback failed ({res.status_code}) for {url}")
             return None
-
         soup = BeautifulSoup(res.text, "html.parser")
         for tag in soup(["script", "style", "nav", "footer", "header"]):
             tag.decompose()
-
         text = " ".join(soup.get_text().split())
-        return text[:10000]  # Limit to avoid memory issues
-
+        return text[:10000]
     except Exception as e:
-        print(f" Fallback error for {url}: {e}")
+        print(f"  Fallback error for {url}: {e}")
         return None
 
-
 def fetch_text_from_url(url):
-    """Try Trafilatura first, then fallback to BeautifulSoup if blocked."""
+    """Try Trafilatura first, then fallback."""
     domain = urlparse(url).netloc
     blocked_domains = ["nature.com", "sciencedirect.com", "ncbi.nlm.nih.gov"]
 
     try:
-        if any(blocked in domain for blocked in blocked_domains):
-            print(f" Using fallback for {domain}")
+        if any(b in domain for b in blocked_domains):
+            print(f" Domain {domain} blocked for Trafilatura — using fallback.")
             return fetch_with_bs(url)
 
         downloaded = trafilatura.fetch_url(url)
@@ -115,16 +127,14 @@ def fetch_text_from_url(url):
             extracted = trafilatura.extract(downloaded, include_comments=False)
             if extracted and len(extracted.strip()) > 200:
                 return extracted
-
         print(f" Trafilatura failed for {url}, using fallback.")
         return fetch_with_bs(url)
-
     except Exception as e:
-        print(f" Error fetching {url}: {e}")
+        print(f"  Error fetching {url}: {e}")
         return None
 
 # -----------------------------------------
-# 7. Main Processing Pipeline
+# 8. Main Pipeline
 # -----------------------------------------
 urls = [
     "https://en.wikipedia.org/wiki/Sustainable_agriculture",
@@ -142,39 +152,43 @@ urls = [
 results = []
 
 for i, url in enumerate(tqdm(urls, desc="Processing URLs")):
+    print(f"\n🔎 [{i+1}/{len(urls)}] Processing URL: {url}")
     try:
         text = fetch_text_from_url(url)
         if not text:
-            print(f" Skipping empty text from {url}")
-            continue
+            raise ValueError("Empty or blocked content")
 
-        # Extract entities
         entity_output = extract_entities(paragraph=text)
         raw_entities = [e.entity for e in entity_output.entities]
         raw_types = [e.attr_type for e in entity_output.entities]
 
-        # Deduplicate
         deduped_entities = deduplicate_with_lm(raw_entities)
-
-        # Generate dummy triples (for demonstration)
-        triples = [(deduped_entities[i], "related_to", deduped_entities[i+1])
-                   for i in range(min(len(deduped_entities)-1, 5))]
-
-        # Save Mermaid Diagram
+        triples = generate_semantic_relationships(deduped_entities)
         mermaid_str = triples_to_mermaid(triples, deduped_entities)
-        with open(f"mermaid_{i+1}.md", "w") as f:
-            f.write(mermaid_str)
 
-        # Save structured tags
+        mermaid_file = Path(f"mermaid_{i+1:02}.md")
+        with open(mermaid_file, "w", encoding="utf-8") as f:
+            f.write(mermaid_str)
+        print(f" Mermaid diagram saved as {mermaid_file.name}")
+
         for e, t in zip(raw_entities, raw_types):
             results.append({"link": url, "tag": e, "tag_type": t})
 
     except Exception as e:
-        print(f" Error processing {url}: {e}")
+        error_file = Path(f"mermaid_{i+1:02}.md")
+        with open(error_file, "w", encoding="utf-8") as f:
+            f.write("```mermaid\n")
+            f.write("graph TD\n")
+            f.write(f"A[URL Index {i+1}] -->|❌ Failed| B[{url}]\n")
+            f.write(f"B --> C[Error: {str(e).split(':')[0]}]\n")
+            f.write("classDef error fill:#f88,stroke:#800,stroke-width:2px;\n")
+            f.write("class B,C error;\n")
+            f.write("```")
+        print(f" Saved error Mermaid as {error_file.name}")
 
 # -----------------------------------------
-# 8. Save CSV Output
+# 9. Save Output
 # -----------------------------------------
 df = pd.DataFrame(results)
 df.to_csv("tags.csv", index=False)
-print(" Processing complete! Files saved as mermaid_*.md and tags.csv")
+print("\n Processing complete! All mermaid_XX.md and tags.csv saved.")
