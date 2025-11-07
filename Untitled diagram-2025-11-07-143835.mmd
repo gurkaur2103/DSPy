@@ -1,0 +1,6 @@
+graph TD 
+    auditory_task_switching -- supports --> response_set_overlap 
+    response_set_overlap -- reduces --> non_overlapping_response_sets 
+    non_overlapping_response_sets -- supports --> task_preparation 
+    task_preparation -- depends on --> cued_auditory_task_switching 
+    cued_auditory_task_switching -- is part of --> pitch
