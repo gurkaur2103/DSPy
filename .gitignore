@@ -1,0 +1,11 @@
+# Ignore environment variables
+.env
+
+# Ignore compiled files
+__pycache__/
+*.pyc
+
+# Ignore temporary or generated files
+*.log
+*.csv
+*.md
