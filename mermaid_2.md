@@ -1,0 +1,6 @@
+graph TD
+  Men -- related_to --> women
+  women -- related_to --> brains
+  brains -- related_to --> Alzheimer’s_disease
+  Alzheimer’s_disease -- related_to --> ageing
+  ageing -- related_to --> brain_volume_reduction
