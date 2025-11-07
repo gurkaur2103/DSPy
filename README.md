@@ -91,6 +91,8 @@ Save Structured Data → Exports entity data to tags.csv
 
 
 ## File Structure
+
+```bash
  your-repo/
  ┣  main.py
  ┣  .env
@@ -101,6 +103,7 @@ Save Structured Data → Exports entity data to tags.csv
  ┣  mermaid_02.md
  ┣  mermaid_03.md
  ┗ ...
+```
 
 ## License
 This project is released under the MIT License.
