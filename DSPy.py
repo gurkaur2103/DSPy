@@ -1,9 +1,10 @@
 # =========================================
 # DSPy: Structuring Unstructured Data Assignment
+# Secure Version with .env Integration
 # =========================================
 
 # Install dependencies
-!pip install dspy trafilatura pandas tqdm requests beautifulsoup4
+!pip install dspy trafilatura pandas tqdm requests beautifulsoup4 python-dotenv
 
 # -----------------------------------------
 # 1. Imports
@@ -20,13 +21,23 @@ from pydantic import BaseModel, Field
 from typing import List
 from pathlib import Path
 import random
+from dotenv import load_dotenv
 
 # -----------------------------------------
-# 2. Configure LongCat API
+# 2. Load Environment Variables (.env)
 # -----------------------------------------
-os.environ["OPENAI_API_KEY"] = "ak_1Oc6C50ID7OZ1hS84z4iK7Zb5Sf2M"
-os.environ["OPENAI_API_BASE"] = "https://api.longcat.chat/openai/v1"
+# Load .env file
+load_dotenv()
 
+# Now the environment variables are available
+api_key = os.getenv("OPENAI_API_KEY")
+api_base = os.getenv("OPENAI_API_BASE")
+
+# Set environment variables
+os.environ["OPENAI_API_KEY"] = api_key
+os.environ["OPENAI_API_BASE"] = api_base
+
+# Configure DSPy with LongCat model
 dspy.configure(lm=dspy.LM("openai/LongCat-Flash-Chat"))
 
 # -----------------------------------------
