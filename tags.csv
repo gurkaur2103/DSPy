@@ -1,0 +1,602 @@
+link,tag,tag_type
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Ecosystem services,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Climate change,Environmental factor
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Water scarcity,Environmental factor
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Water pollution,Environmental factor
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Land degradation,Environmental factor
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Deforestation,Environmental factor
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Permaculture,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Agroforestry,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Mixed farming,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Multiple cropping,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Crop rotation,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Land sparing,Landscape management strategy
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Land sharing,Landscape management strategy
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Land blending,Landscape management strategy
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Organic agriculture,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Ecological farming,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Regenerative agriculture,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Precision agriculture,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Agrivoltaics,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Vertical farming,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Hydroponics,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Urban agriculture,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Indigenous agriculture,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Intercropping,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,No-till farming,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Cover crops,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Biodiversity,Environmental factor
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Soil erosion,Environmental factor
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Nutrient cycling,Process
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Nitrogen fixation,Process
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Phosphorus,Nutrient
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Potassium,Nutrient
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Nitrates,Nutrient
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Compost,Soil amendment
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Biochar,Soil amendment
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Mycorrhizae,Organism
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Rhizobia,Organism
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Phosphate-solubilizing microorganisms,Organism
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Greenhouse gas emissions,Environmental factor
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Carbon sequestration,Process
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Food security,Social factor
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Rural economic development,Social factor
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Women in sustainable agriculture,Social factor
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable diets,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Voluntary Sustainability Standards,Standard
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Organic certification,Standard
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Rainforest Alliance,Standard
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Fair Trade,Standard
+https://en.wikipedia.org/wiki/Sustainable_agriculture,UTZ Certified,Standard
+https://en.wikipedia.org/wiki/Sustainable_agriculture,GlobalGAP,Standard
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Bird Friendly,Standard
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Common Code for the Coffee Community (4C),Standard
+https://en.wikipedia.org/wiki/Sustainable_agriculture,USDA,Organization
+https://en.wikipedia.org/wiki/Sustainable_agriculture,European Union,Organization
+https://en.wikipedia.org/wiki/Sustainable_agriculture,United Nations,Organization
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Food and Agriculture Organization,Organization
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Intergovernmental Panel on Climate Change,Organization
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Commission on Sustainable Agriculture and Climate Change,Organization
+https://en.wikipedia.org/wiki/Sustainable_agriculture,CGIAR,Organization
+https://en.wikipedia.org/wiki/Sustainable_agriculture,National Banana Research Program,Organization
+https://en.wikipedia.org/wiki/Sustainable_agriculture,National Biotechnology and Biosafety bill,Policy
+https://en.wikipedia.org/wiki/Sustainable_agriculture,From Farm to Fork,Policy
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Green New Deal,Policy
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Science and Technology Backyard,Program
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sowgood foundation,Organization
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Slow Food,Organization
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Carbon180,Organization
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Agroecology,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable intensification,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Triple bottom line,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Honorable Harvest,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Three Sisters Garden,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Slash-and-burn,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Slash-and-char,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Raised field agriculture,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Water harvesting,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Desalination,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Soil solarization,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Biofumigants,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Monoculture,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Polyculture,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Guerrilla gardening,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Biodigesters,Technology
+https://en.wikipedia.org/wiki/Sustainable_agriculture,AI-controlled irrigation systems,Technology
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Drones,Technology
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sensors,Technology
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Robotics,Technology
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Expert systems,Technology
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Genetically Modified Organisms,Technology
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Greenhouse,Technology
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Submersible pumps,Technology
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Drip irrigation,Technology
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Low-pressure pivots,Technology
+https://en.wikipedia.org/wiki/Sustainable_agriculture,False seedbed tiller,Technology
+https://en.wikipedia.org/wiki/Sustainable_agriculture,GPS-guided tractors,Technology
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Carbon footprint,Environmental factor
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Food miles,Environmental factor
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Eutrophication,Environmental factor
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Soil health,Environmental factor
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Soil organic matter,Environmental factor
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Soil microbial life,Environmental factor
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Soil salinity,Environmental factor
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Soil evaporation,Environmental factor
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Soil moisture,Environmental factor
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Soil nutrient levels,Environmental factor
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Soil structure,Environmental factor
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Soil fertility,Environmental factor
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Soil amendments,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Soil steaming,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Controlled burns,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Silviculture,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Rotational grazing,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Fertilizer management,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Pesticide management,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Weed management,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Pest management,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Irrigation management,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Water conservation,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Water retention,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Water infiltration,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Water withdrawal,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Water recycling,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Water efficiency,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Drought-resistant crops,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Climate-smart agriculture,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable development,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable food system,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable energy,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable landscaping,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable land management,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable intensification,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable economic growth,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable livelihoods,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable consumption,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable production,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable resource use,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable water resource development,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable intensification,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture policy,Policy
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture research,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture education,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture extension,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture certification,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture standards,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture investment,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture technology,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture innovation,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture transition,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture resilience,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture adaptation,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture mitigation,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture monitoring,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture evaluation,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture governance,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture planning,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture implementation,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture scaling,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture impact,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture outcomes,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture benefits,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture challenges,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture barriers,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture ethics,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture principles,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture methods,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture practices,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture systems,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture models,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture frameworks,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture indicators,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture metrics,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture assessment,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture reporting,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture communication,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture policy advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture research advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture education advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture extension advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture certification advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture standards advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture investment advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture technology advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture innovation advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture transition advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture resilience advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture adaptation advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture mitigation advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture monitoring advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture evaluation advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture governance advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture planning advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture implementation advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture scaling advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture impact advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture outcomes advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture benefits advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture challenges advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture barriers advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture ethics advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture principles advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture methods advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture practices advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture systems advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture models advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture frameworks advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture indicators advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture metrics advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture assessment advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture reporting advocacy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture communication advocacy,Field
+https://www.nature.com/articles/d41586-025-03353-5,Men,Concept
+https://www.nature.com/articles/d41586-025-03353-5,women,Concept
+https://www.nature.com/articles/d41586-025-03353-5,brains,Organ
+https://www.nature.com/articles/d41586-025-03353-5,Alzheimer’s disease,Disease
+https://www.nature.com/articles/d41586-025-03353-5,ageing,Process
+https://www.nature.com/articles/d41586-025-03353-5,brain volume reduction,Process
+https://www.nature.com/articles/d41586-025-03353-5,longitudinal study,Process
+https://www.nature.com/articles/d41586-025-03353-5,Proceedings of the National Academy of Sciences,Concept
+https://www.nature.com/articles/d41586-025-03353-5,"Ravndal, A.",Person
+https://www.nature.com/articles/d41586-025-03353-5,neurodegeneration,Process
+https://www.nature.com/articles/d41586-025-03353-5,lithium supplement,Drug
+https://www.nature.com/articles/d41586-025-03353-5,memory loss,Symptom
+https://www.nature.com/articles/d41586-025-03353-5,mice,Organism
+https://www.nature.com/articles/d41586-025-03353-5,Huntington’s disease,Disease
+https://www.nature.com/articles/d41586-025-03353-5,gene therapy,Process
+https://www.nature.com/articles/d41586-025-03353-5,repeated head trauma,Process
+https://www.nature.com/articles/d41586-025-03353-5,inflammation,Process
+https://www.nature.com/articles/d41586-025-03353-5,neuron loss,Process
+https://www.nature.com/articles/d41586-025-03353-5,zombie cells,Concept
+https://www.nature.com/articles/d41586-025-03353-5,brain development,Process
+https://www.nature.com/articles/d41586-025-03353-5,stem cells,Cell
+https://www.nature.com/articles/d41586-025-03353-5,neurons,Cell
+https://www.nature.com/articles/d41586-025-03353-5,AI,Concept
+https://www.nature.com/articles/d41586-025-03353-5,brain activity,Process
+https://www.nature.com/articles/d41586-025-03353-5,Nature Briefing,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,auditory task switching,Process
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,response-set overlap,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,task preparation,Process
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,cued auditory task switching,Process
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,pitch,Stimulus dimension
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,loudness,Stimulus dimension
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,low,Semantic category
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,high,Semantic category
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,manual responses,Response modality
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,vocal responses,Response modality
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,congruency effect,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,switch costs,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,cue-stimulus interval,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,CSI,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,task shielding,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,response-based crosstalk,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,bivalent responses,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,univalent responses,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,response modality,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,response category,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,stimulus–response mappings,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,task sets,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,cognitive system,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,performance impairments,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,error rates,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,response times,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,RTs,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Meiran,Person
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Rogers & Monsell,Person
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Allport et al.,Person
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Koch et al.,Person
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Kiesel et al.,Person
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Brass et al.,Person
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Yeung and Monsell,Person
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Nolden and Koch,Person
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,PMC,Organization
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,NLM,Organization
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,National Institutes of Health,Organization
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,RWTH Aachen University,Organization
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Goethe-University Frankfurt,Organization
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Cognitive and Experimental Psychology,Organization
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Department for Developmental Psychology,Organization
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Creative Commons Attribution 4.0 International License,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,chronic food insecurity,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,transitory food insecurity,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,trade liberalization,Process
+https://www.fao.org/3/y4671e/y4671e06.htm,2002 food crisis in Southern Africa,Event
+https://www.fao.org/3/y4671e/y4671e06.htm,food security,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,World Food Summit (WFS),Event
+https://www.fao.org/3/y4671e/y4671e06.htm,World Food Conference of 1974,Event
+https://www.fao.org/3/y4671e/y4671e06.htm,Green Revolution,Process
+https://www.fao.org/3/y4671e/y4671e06.htm,famine,Event
+https://www.fao.org/3/y4671e/y4671e06.htm,hunger,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,food crisis,Event
+https://www.fao.org/3/y4671e/y4671e06.htm,Amartya Sen,Person
+https://www.fao.org/3/y4671e/y4671e06.htm,entitlement theory,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,human security,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,human rights,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,social security,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,nutritional status,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,vulnerability,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,sub-nutrition,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,poverty,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,extreme poverty,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,food balance sheets,Measurement
+https://www.fao.org/3/y4671e/y4671e06.htm,consumer expenditure data,Measurement
+https://www.fao.org/3/y4671e/y4671e06.htm,dietary energy requirements,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,staple foods,Food
+https://www.fao.org/3/y4671e/y4671e06.htm,energy intake,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,SOFI 2001,Document
+https://www.fao.org/3/y4671e/y4671e06.htm,agricultural productivity growth,Process
+https://www.fao.org/3/y4671e/y4671e06.htm,shocks,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,agricultural trade regime,Policy
+https://www.fao.org/3/y4671e/y4671e06.htm,unrecorded trade,Process
+https://www.fao.org/3/y4671e/y4671e06.htm,HIV/AIDS,Disease
+https://www.fao.org/3/y4671e/y4671e06.htm,malaria,Disease
+https://www.fao.org/3/y4671e/y4671e06.htm,tuberculosis,Disease
+https://www.fao.org/3/y4671e/y4671e06.htm,economic shock,Event
+https://www.fao.org/3/y4671e/y4671e06.htm,natural disaster,Event
+https://www.fao.org/3/y4671e/y4671e06.htm,humanitarian problem,Event
+https://www.fao.org/3/y4671e/y4671e06.htm,Uruguay Round (UR),Event
+https://www.fao.org/3/y4671e/y4671e06.htm,Prebisch-Singer downward trend,Economic Trend
+https://www.fao.org/3/y4671e/y4671e06.htm,agricultural liberalization,Policy
+https://www.fao.org/3/y4671e/y4671e06.htm,maize yields,Measurement
+https://www.fao.org/3/y4671e/y4671e06.htm,Chow tests,Statistical Method
+https://www.fao.org/3/y4671e/y4671e06.htm,climate change,Process
+https://www.fao.org/3/y4671e/y4671e06.htm,drought,Event
+https://www.fao.org/3/y4671e/y4671e06.htm,flood,Event
+https://www.fao.org/3/y4671e/y4671e06.htm,storms,Event
+https://www.fao.org/3/y4671e/y4671e06.htm,multi-criteria analysis (MCA),Method
+https://www.fao.org/3/y4671e/y4671e06.htm,Food Information and Vulnerability Mapping Systems (FIVIMS),System
+https://www.fao.org/3/y4671e/y4671e06.htm,FAO,Organization
+https://www.fao.org/3/y4671e/y4671e06.htm,World Food Programme (WFP),Organization
+https://www.fao.org/3/y4671e/y4671e06.htm,UNICEF,Organization
+https://www.fao.org/3/y4671e/y4671e06.htm,IFAD,Organization
+https://www.fao.org/3/y4671e/y4671e06.htm,World Bank,Organization
+https://www.fao.org/3/y4671e/y4671e06.htm,UNDP,Organization
+https://www.fao.org/3/y4671e/y4671e06.htm,Overseas Development Institute (ODI),Organization
+https://www.fao.org/3/y4671e/y4671e06.htm,Onora O'Neill,Person
+https://www.fao.org/3/y4671e/y4671e06.htm,duties,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,rights rhetoric,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,active obligation,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,protein-energy malnutrition,Disease
+https://www.fao.org/3/y4671e/y4671e06.htm,food safety,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,nutritional balance,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,food preferences,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,household food security,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,physical access,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,economic access,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,social access,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,dietary needs,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,active and healthy life,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,food insecurity,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,vulnerability assessment,Method
+https://www.fao.org/3/y4671e/y4671e06.htm,spatial distribution,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,entitlement failure,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,ethical dimension,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,policy analysis,Method
+https://www.fao.org/3/y4671e/y4671e06.htm,international consultation,Process
+https://www.fao.org/3/y4671e/y4671e06.htm,public policy,Policy
+https://www.fao.org/3/y4671e/y4671e06.htm,operational concept,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,technical issues,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,policy issues,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,institutional arrangements,Policy
+https://www.fao.org/3/y4671e/y4671e06.htm,global food economy,Economic System
+https://www.fao.org/3/y4671e/y4671e06.htm,food supply problems,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,price stability,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,availability,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,demand side,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,supply side,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,temporal dynamics,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,structural poverty,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,low incomes,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,economic collapse,Event
+https://www.fao.org/3/y4671e/y4671e06.htm,conflict,Event
+https://www.fao.org/3/y4671e/y4671e06.htm,foreign exchange earnings,Economic Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,domestic food production,Process
+https://www.fao.org/3/y4671e/y4671e06.htm,household incomes,Economic Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,loss of human capital,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,transition in trade regimes,Process
+https://www.fao.org/3/y4671e/y4671e06.htm,international grain markets,Market
+https://www.fao.org/3/y4671e/y4671e06.htm,tropical commodity export prices,Economic Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,agricultural institutions,Organization
+https://www.fao.org/3/y4671e/y4671e06.htm,climatic variability,Process
+https://www.fao.org/3/y4671e/y4671e06.htm,extreme events,Event
+https://www.fao.org/3/y4671e/y4671e06.htm,health status,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,communicable diseases,Disease
+https://www.fao.org/3/y4671e/y4671e06.htm,dietary energy supply,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,subsistence,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,marketing,Process
+https://www.fao.org/3/y4671e/y4671e06.htm,short-term nutritional stress,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,acute food insecurity,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,chronic sub-nutrition,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,food system volatility,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,simple indicators,Measurement
+https://www.fao.org/3/y4671e/y4671e06.htm,target setting,Policy
+https://www.fao.org/3/y4671e/y4671e06.htm,qualitative comparisons,Method
+https://www.fao.org/3/y4671e/y4671e06.htm,quantitative comparisons,Method
+https://www.fao.org/3/y4671e/y4671e06.htm,inadequate food intake,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,food needs,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,moral unimpeachability,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,politically acceptable,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,duty,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,obligation,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,ethical dimensions,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,public action,Policy
+https://www.fao.org/3/y4671e/y4671e06.htm,development policy discourse,Policy
+https://www.fao.org/3/y4671e/y4671e06.htm,halving of the number of hungry,Policy Goal
+https://www.fao.org/3/y4671e/y4671e06.htm,2015,Time
+https://www.fao.org/3/y4671e/y4671e06.htm,individual household member,Person
+https://www.fao.org/3/y4671e/y4671e06.htm,family level,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,national level,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,regional level,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,global level,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,Brazil,Country
+https://www.fao.org/3/y4671e/y4671e06.htm,India,Country
+https://www.fao.org/3/y4671e/y4671e06.htm,Nigeria,Country
+https://www.fao.org/3/y4671e/y4671e06.htm,Russian Federation,Country
+https://www.fao.org/3/y4671e/y4671e06.htm,Punjab,Region
+https://www.fao.org/3/y4671e/y4671e06.htm,Haryana,Region
+https://www.fao.org/3/y4671e/y4671e06.htm,Northern Nigeria,Region
+https://www.fao.org/3/y4671e/y4671e06.htm,Malawi,Country
+https://www.fao.org/3/y4671e/y4671e06.htm,Zambia,Country
+https://www.fao.org/3/y4671e/y4671e06.htm,Guatemala,Country
+https://www.fao.org/3/y4671e/y4671e06.htm,Southern Africa,Region
+https://www.fao.org/3/y4671e/y4671e06.htm,sub-Saharan Africa,Region
+https://www.fao.org/3/y4671e/y4671e06.htm,low income countries,Economic Category
+https://www.fao.org/3/y4671e/y4671e06.htm,middle income countries,Economic Category
+https://www.fao.org/3/y4671e/y4671e06.htm,upper income countries,Economic Category
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Tramadol,Drug
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,opioid,Drug
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,chronic pain,Disease
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,pain relief,Process
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,serious side effects,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,cardiac complications,Disease
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,analgesic benefits,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,risk of harm,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Jehad Ahmad Barakji,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Centre for Clinical Intervention Research,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Rigshospitalet,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Copenhagen,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Denmark,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,BMJ Evidence-Based Medicine,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,serotonin,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,norepinephrine,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,morphine,Drug
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,nonopioid medications,Drug
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,dependence,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,osteoarthritis,Disease
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,neuropathic pain,Disease
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,meta-analysis,Process
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,trial sequential analysis,Process
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,"randomized, placebo-controlled trials",Process
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,numeric rating scale (NRS),Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,quality of life,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,nausea,Disease
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,dizziness,Disease
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,constipation,Disease
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,drowsiness,Disease
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,chest pain,Disease
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,coronary artery disease,Disease
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,heart failure,Disease
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,bias,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Jessica Otte,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,The University of British Columbia,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Therapeutics Initiative,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Houman Danesh,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Icahn School of Medicine at Mount Sinai,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,New York City,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,heart rhythm disturbances,Disease
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,cardiac conduction,Process
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,attrition bias,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,functional improvement,Process
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,withdrawal,Process
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,Heidi Newberg,Person
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,Rensselaer Polytechnic Institute,Organization
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,Frontiers in Astronomy and Space Sciences,Publication
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,Earth 2.0,Concept
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,habitable worlds,Concept
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,rectangular mirror,Technology
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,circular mirror,Technology
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,telescope,Technology
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,space telescope,Technology
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,James Webb Space Telescope,Technology
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,JWST,Technology
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,starshade,Technology
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,exoplanet,Astronomical Object
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,Earth-like exoplanet,Astronomical Object
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,sun-like stars,Astronomical Object
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,multicellular life,Concept
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,liquid water,Concept
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,infrared,Scientific Term
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,10 micron,Scientific Term
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,optics theory,Scientific Term
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,space probe,Technology
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,photosynthesis,Process
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,oxygen,Chemical
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,30 light-years,Measurement
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,20 meters,Measurement
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,6.5 meters,Measurement
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,visible light,Scientific Term
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,atmosphere,Scientific Term
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,astrophysicist,Role
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,space sciences,Field
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,astronomy,Field
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,recombinant herpes zoster vaccine,Drug
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,shingles,Disease
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,herpes zoster,Disease
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,postherpetic neuralgia,Disease
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,ophthalmicus,Disease
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,immunocompromised status,Concept
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,CDC,Concept
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,two-dose series,Process
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,vaccine effectiveness,Concept
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,Medicare fee-for-service,Concept
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,live zoster vaccine,Drug
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,recombinant zoster vaccine,Drug
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,RZV,Drug
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,Nadja A. Vielot,Concept
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,University of North Carolina School of Medicine,Concept
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,Annals of Internal Medicine,Concept
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,Shirin Mazumder,Concept
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,University of Tennessee Health Science Center,Concept
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,National Center for Advancing Translational Science,Concept
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,vaccination,Process
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,adverse events,Concept
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,private insurance claims,Concept
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,racial disparities,Concept
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,Black individuals,Concept
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,Hispanic individuals,Concept
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,older adults,Concept
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,adults aged 65 years or older,Concept
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,adults aged 50 years or older,Concept
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,individuals aged 85 years or older,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Hanle,Location
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Ladakh,Location
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Tsering Dolkar,Person
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Venus,CelestialBody
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Milky Way,CelestialBody
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Indian Astronomical Observatory,Facility
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,dark sky reserve,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,astronomy ambassadors,Role
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Indian Institute of Astrophysics,Organization
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Niruj Mohan Ramanujam,Person
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Himalayan Chandra telescope,Facility
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Digpa-ratsa Ri,Location
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Padma Chamchot,Person
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Kesang Dorjey,Person
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Nawang Tsoundu,Person
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Hanle Buddhist monastery,Facility
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Bortle 1,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,light pollution,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,China,Location
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,military camp,Facility
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Hashika Raj,Person
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Chennai,Location
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,star party,Event
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,astrophotography,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,summer triangle,CelestialPattern
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,homestay,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,astro-tourism,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,"Indian Institute of Astrophysics, Bengaluru",Organization
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,2022,Date
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,2000,Date
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,2023,Date
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,"4,500 metres",Measurement
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,2-metre Himalayan Chandra telescope,Facility
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,six hamlets,Location
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,elders,Role
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,monks,Role
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,tourists,Role
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,visitors,Role
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,astronomy enthusiasts,Role
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,energy-systems engineer,Role
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,college graduate,Role
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,government job,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,local economy,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,livelihoods,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,stargazing,Activity
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,deep-sky exploration,Activity
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,navigation,Activity
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,timekeeping,Activity
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,constellation knowledge,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Buddhist practice,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,festival,Event
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,sacred timings,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,commercial interests,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,outreach head,Role
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,acting head monk,Role
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,ambassadors,Role
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,telescope,Facility
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,tripod,Facility
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,lens,Facility
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,generator,Facility
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,headlights,Facility
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,diesel generator,Facility
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,military presence,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,border tensions,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,officer rotations,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,community management,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,cultural preservation,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,nomadic communities,Group
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,local authorities,Organization
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,research partner,Role
